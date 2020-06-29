@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18944" started-at="2020-06-29T08:30:42Z" finished-at="2020-06-29T08:31:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18944" started-at="2020-06-29T08:30:42Z" finished-at="2020-06-29T08:31:01Z">
+      <class name="sample.sampleTest.AppTest">
+        <test-method status="PASS" signature="Scenario1()[pri:0, instance:sample.sampleTest.AppTest@61832929]" name="Scenario1" duration-ms="9883" started-at="2020-06-29T08:30:42Z" finished-at="2020-06-29T08:30:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+      </class> <!-- sample.sampleTest.AppTest -->
+      <class name="sample.sampleTest.App">
+        <test-method status="PASS" signature="Scenario1()[pri:0, instance:sample.sampleTest.App@29774679]" name="Scenario1" duration-ms="9034" started-at="2020-06-29T08:30:52Z" finished-at="2020-06-29T08:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+      </class> <!-- sample.sampleTest.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
