@@ -6,6 +6,8 @@
       <class name="sample.sampleTest.App">
         <methods>
           <include name="Scenario1"/>
+          <include name="setUpBeforeClass"/>
+          <include name="setUp"/>
         </methods>
       </class> <!-- sample.sampleTest.App -->
     </classes>

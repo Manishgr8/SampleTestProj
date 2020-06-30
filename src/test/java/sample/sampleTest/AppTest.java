@@ -29,6 +29,6 @@ public class AppTest
 	// Navigate to salesforce application
 	driver.navigate().to("https://login.salesforce.com/");
 	
-	driver.quit();
+	//driver.quit();
 }
 }
