@@ -12,8 +12,8 @@ import org.testng.annotations.Test;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
-import com.training.utility.DriverFactory;
-import com.training.utility.DriverNames;
+import com.ibm.DriverFactory;
+import com.ibm.DriverNames;
 
 public class App 
 {
